@@ -8,6 +8,7 @@ export default function Home() {
 
         <p className="mt-4 text-2xl">
           My name is Darshan Sahu.
+          i am learning Next.js and Tailwind CSS.
         </p>
       </div>
     </main>
